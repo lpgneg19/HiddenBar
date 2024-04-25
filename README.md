@@ -29,9 +29,11 @@ Original Version (v1.8): [![AppStore](img/appstore.svg)](https://itunes.apple.co
 
 ### Pre-built Packages
 
-This version of Hidden Bar is NOT notarized. The GateKeeper will flag any non-notarized App as Untrusted and therefore prevent it from opening. Although you can override GateKeeper's decision, it is considered a bad habit while using your computer. Besides notarizing an app requires enrollments of Apple Developer Program, which currently is not the case for me. Therefore NO pre-built packages available.
+Pre-built packages of Hidden Bar can be found [here](https://github.com/UeharaYou/HiddenBar/releases).
 
-To test this version of Hidden Bar, you have to build it from source, which means you might also inspect the code yourself.
+Notice: This version of Hidden Bar is NOT notarized. The GateKeeper will flag any non-notarized App as Untrusted and therefore prevent it from opening. Although you can override GateKeeper's decision, it is considered a bad habit while using your computer. Besides notarizing an app requires enrollments of Apple Developer Program, which currently is not the case for me. 
+
+For security reasons, it is STRONGLY RECOMMENDED to build your own copies from source, which means you might also inspect the code yourself.
 
 For packages of the original Hidden Bar (up to v1.9), check out the original repo [here](https://github.com/dwarvesf/hidden).
 
@@ -45,7 +47,7 @@ To build this version of Hidden Bar, you have to have Xcode installed.
 
 ## 🕹 Usage
 
-CAUTION: The usage of version of Hidden Bar is slightly different from the original one.
+The usage of version of Hidden Bar is slightly different from the original one.
 
 * `⌘` + drag to move the Hidden icons around in the menu bar.
 * Click the Arrow icon to hide menu bar items.
