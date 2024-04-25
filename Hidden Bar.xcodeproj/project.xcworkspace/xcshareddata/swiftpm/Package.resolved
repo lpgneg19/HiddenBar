@@ -1,12 +1,13 @@
 {
+  "originHash" : "d5995384c2d7fe001a4f6d148aaff6b22593786b9234d2ef89e41962c9fc3208",
   "pins" : [
     {
       "identity" : "hotkey",
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/soffes/HotKey",
       "state" : {
-        "branch" : "master",
-        "revision" : "c13662730cb5bc28de4a799854bbb018a90649bf"
+        "branch" : "main",
+        "revision" : "4d02d80de143d69b7eeb5962729591a157a57ede"
       }
     },
     {
@@ -15,9 +16,9 @@
       "location" : "https://github.com/sindresorhus/LaunchAtLogin",
       "state" : {
         "branch" : "main",
-        "revision" : "7ad6331f9c38953eb1ce8737758e18f7607e984a"
+        "revision" : "22923d335429bfd38c52435505b06a10bcc520fd"
       }
     }
   ],
-  "version" : 2
+  "version" : 3
 }
